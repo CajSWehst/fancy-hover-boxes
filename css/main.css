@@ -23,7 +23,7 @@ section {
 
 .hover-box h2 {
   position: absolute;
-  bottom: .4em;
+  bottom: -4em;
   width: 100%;
   padding: 1rem;
   margin: 0;
