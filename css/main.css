@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+.img{
+
+}
+
 section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
@@ -46,6 +50,7 @@ section {
 
 .hover-box img {
   filter: grayscale(100%);
+  width: 100%;
   transition: all .2s linear;
 }
 
